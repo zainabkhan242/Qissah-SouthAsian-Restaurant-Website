@@ -37,7 +37,7 @@ diwaanstyle/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/excitedcat24/Qissah.git
+git clone https://github.com/zainabkhan242/Qissah-SouthAsian-Restaurant-Website.git
 cd Qissah
 ```
 
